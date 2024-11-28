@@ -2,7 +2,7 @@
 ------------------------------
 
   
- 🧑🏻‍💻 Cloud Engineer sharing about my journey and learnings in tech.<br/>
+ 🧑🏻‍💻 Aspiring MlOps Engineer, sharing about my journey and learnings in tech.<br/>
  👨🏻‍🎓 Studied Electronics and Communication Engineering at Vellore Institute of Technology, Chennai, India.<br/>
  📚 I'm enhancing my expertise in MLOps and UI/UX design to improve machine learning workflows and user interfaces, while also deepening my skills in DevOps, SQL, and AWS for robust 
      cloud solutions.<br/>
